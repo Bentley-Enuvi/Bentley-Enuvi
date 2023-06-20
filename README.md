@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bentley-Enuvi
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning JavaScript Algorithm Data Structure.
-- 💞️ I’m looking to collaborate on programming generally as i'm a newbie.
+- 👀 I love programming.
+- 🌱 I’m currently learning C#.
+- 💞️ 
 - 📫 How to reach me: Email bentleyenuvi@gmail.com, WhatsApp +23481098474
 
 <!---
